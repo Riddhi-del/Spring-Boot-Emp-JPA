@@ -80,10 +80,10 @@ public class Employee {
     @Override
     public String toString() {
         return "Employee{" +
-                "empId=" + empId +
-                ", name='" + name + '\'' +
-                ", age=" + age +
-                ", phone='" + phone + '\'' +
+                "EmpId =" + empId +
+                ", Name='" + name + '\'' +
+                ", Age=" + age +
+                ", Phone='" + phone + '\'' +
                 ", email='" + email + '\'' +
                 ", address='" + address + '\'' +
                 '}';
